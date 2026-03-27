@@ -1,0 +1,7 @@
+smoke
+person
+car
+black_smoke
+fire
+
+
